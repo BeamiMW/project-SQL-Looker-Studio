@@ -1,6 +1,7 @@
+link dashboard : [sales farma](https://lookerstudio.google.com/u/0/reporting/4579e80e-e613-4e7e-8f16-2b8ac780589c/page/OIkDD)
+
+
 Sebuah perusahaan farmasi memiliki data lake berupa 3 tabel yang tersedia (penjualan, pelanggan, dan barang). Data lake menyimpan data dari sumber asli (berbagai database) dalam bentuk mentah dimana informasinya belum diolah dan belum dibersihkan.
 
 Seorang big data analyst ditugaskan untuk membuat data mart untuk divisi SBU Marketing dan sales farma. Definisi dari data mart sendiri adalah subset dari data warehouse dengan tujuan yang lebih spesifik untuk tim tertentu. Langkah yang dapat dilakukan untuk membuat data mart adalah membuat data warehouse terlebih dahulu dalam bentuk base table dari data lake, yang dimana data warehouse diartikan sebagai penyimpanan data bersih dari berbagai sumber yang dikelompokkan dalam use case tertentu dimana data sudah siap digunakan untuk mendukung proses analisis. Kemudian dari data warehouse yang berbentuk base table tersebut dibuat data mart dalam bentuk aggregate table. Hasil dari data mart tersebut akan saya gunakan untuk melakukan analisis laporan transaksi penjualan selama 6 bulan dalam bentuk visualisasi dashboard menggunakan looker studio, untuk dilaporkan kepada regional sales manager. Berikut adalah tahapan detailnya: 
 ![image](https://user-images.githubusercontent.com/111348675/215492676-65e819ce-b43f-443b-9120-ad49f8645b2e.png)
-
-link dashboard : [sales farma](https://lookerstudio.google.com/u/0/reporting/4579e80e-e613-4e7e-8f16-2b8ac780589c/page/OIkDD)
