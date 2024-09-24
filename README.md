@@ -1,4 +1,4 @@
-link dashboard : [sales farma](https://lookerstudio.google.com/u/0/reporting/4579e80e-e613-4e7e-8f16-2b8ac780589c/page/OIkDD)
+link dashboard : [sales farma](https://lookerstudio.google.com/u/0/reporting/7613d646-8f1b-479d-b69b-a60ef1236936/page/2g8yC)
 
 
 Sebuah perusahaan farmasi memiliki data lake berupa 3 tabel yang tersedia (penjualan, pelanggan, dan barang). Data lake menyimpan data dari sumber asli (berbagai database) dalam bentuk mentah dimana informasinya belum diolah dan belum dibersihkan.
